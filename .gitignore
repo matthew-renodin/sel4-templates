@@ -1,0 +1,8 @@
+cmake/
+docs/
+libsel4*/
+node_modules/
+*.pyc
+*.py
+*.md
+

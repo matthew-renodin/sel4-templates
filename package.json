@@ -1,0 +1,15 @@
+{
+  "name": "sel4-templates",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "sel4-init": "bin/sel4-init",
+    "template": "bin/template"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "nunjucks": "^3.1.7"
+  }
+}
